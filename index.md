@@ -1,37 +1,51 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Loai17/YL2-HTML-CSS-GIT/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<h1>HTML, CSS and GIT Review<h1>
+  
+<p> Welcome back to the yearlong Y2s! It's going to be awesome (I promise). <br> This lab has been created to refresh your memory and make sure you're still good in HTML, CSS and Git :P <br>
+Let's start!</p> 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<p><b>First things first, <u>fork</u> this repo(sitory) and <u>clone</u> it to your desktop</b></p>
 
-### Markdown
+<h2> HTML Section </h2>
+<li>
+<ol>Create a file "hello.html".<br>
+Open the 'hello.html' file using a browser (Like Chrome/Firefox), the page should be empty.</ol>
+<ol>Make your page stand out!<br>
+To do that:<li>
+<ul>Open hello.html using sublime text.</ul>
+<ul>Change it to be about a topic that you’re interested in, your page should have the following (doesn’t have to be in order):
+	<li>
+	<ul>Add/change the title of your page</ul>
+	<ul>A body tag</ul>
+	<ul>A p paragraph inside the body</ul>
+	<ul>An h1 tag inside the body</ul>
+	<ul>An h2 tag inside the body</ul>
+	</li></ul></li></ol>
+<ol>Add an image.<br>
+In the same hello.html file, add an image related to the topic you wrote about. Set the width to 400px.</ol>
+<ol>Add a link.<br>
+Add a link to the Wikipedia page about the animal or the topic you're interested in.</ol>
+</li>
+<br>
+<h2>CSS Section</h2>
+<li>
+<ol>Use the Tag selector to change the background of your HTML page to your favorite color.</ol>
+<ol>Use an ID selector to set a CSS property of one element on your page.<br>
+A property could be: font-size, border, color, etc...</ol>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<ol>Use a class selector to set a CSS property of one element on your page.</ol>
+</li>
+<br>
 
-```markdown
-Syntax highlighted code block
+<h2>Git Section</h2> 
+Commit and push your changes.
+<br>To do that, remember you should:<br>
+<li>
+<ul>git add .</ul>
+<ul>git commit -m "added hello.html. I am a pro!"</ul>
+<ul>git push</ul>
+</li>
+<br>
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Loai17/YL2-HTML-CSS-GIT/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<h2>Bonus Section</h2>
+<p>If you have finished and still have time, first of all <b>GOOD JOB!</b> - Secondly,you can now customize your page as much as you want. If you remember our <b>CSS Tips and Tricks</b> from the summer you could do a lot of cool stuff (psstt... I love animations!) 
